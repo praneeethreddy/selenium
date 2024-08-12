@@ -20,6 +20,7 @@ public class Main {
         myset.add(22);
         myset.add(32);
         System.out.println("Thank You");
+        System.out.println("Welcome");
 
 
 
