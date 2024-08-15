@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello world!");
+         System.out.println("Welcome");
         short abc =12;
         byte ab =122;
         int a=123234;
@@ -20,7 +21,7 @@ public class Main {
         myset.add(22);
         myset.add(32);
         System.out.println("Thank You");
-        System.out.println("Welcome");
+       
 
 
 
