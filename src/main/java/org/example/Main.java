@@ -1,4 +1,6 @@
 package org.example;
+import java.util.HashSet;
+import java.util.Set;
 
 import java.lang.reflect.Array;
 
@@ -13,15 +15,14 @@ public class Main {
         float c = 123.23f;
         double d =1231.23234;
         String e ="Hello ";
-        int[] a = new int[5];
-        a =new int []{1,2,34,5};
-        Set <integer> myset = new Hashset<>();
+        int[] aa = new int[5];
+        aa =new int []{1,2,34,5};
+        Set <Integer> myset = new HashSet<>();
         myset.add(12);
         myset.add(22);
         myset.add(32);
         System.out.println("Thank You");
         System.out.println("Welcome");
-
 
 
 

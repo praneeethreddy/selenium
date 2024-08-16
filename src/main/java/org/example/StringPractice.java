@@ -23,5 +23,7 @@ public class StringPractice {
         System.out.println(s1.toLowerCase());
 //        It is to used to trim the string with the white spaces
         System.out.println(s1.trim());
+        String ss = "Praneeth";
+        System.out.println(ss+"Reddy");
     }
 }
